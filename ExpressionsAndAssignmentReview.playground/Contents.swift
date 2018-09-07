@@ -15,3 +15,15 @@
  
 */
 
+/* Elizabeth wants to cover her one exposed wall entirely with posters. Create constants wallWidth and wallHeight, representing the width and height of the wall in feet. Then create constant wallArea, which uses wallWidth and wallHeight to determine the area of the wall. */
+let wallWidth = 6
+let wallHeight = 8
+let wallArea = wallWidth * wallHeight
+print(wallArea)
+
+/* Elizabeth has a dozen "chirashi" posters - small, Japanese, movie promotional posters - she'd like to have going along the top of the wall. Create constants chirashiWidth and chirashiHeight, representing the width and height of these posters. */
+let chirashiWidth = 0.75
+let chirashiHeight = 0.9
+
+/*
+
